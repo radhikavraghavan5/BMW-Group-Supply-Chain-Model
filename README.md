@@ -1,5 +1,5 @@
 # BMW-Group-Supply-Chain-Model
-BMW group - Strategic planning, Operations &amp; Supply Chain analysis
+BMW group - Developing Strategis for Supply Chain Planning, Operations &amp; Supply Chain analysis
 
 <img width="1068" alt="Screenshot 2023-05-19 at 2 03 31 PM" src="https://github.com/viradhikaa/BMW-Group-Supply-Chain-Model/assets/56044346/4b548807-4ba6-4d63-b6e1-ed5b1d3eb1be">
 
