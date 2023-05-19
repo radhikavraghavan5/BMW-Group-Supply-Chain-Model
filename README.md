@@ -29,7 +29,9 @@ BMW group - Strategic planning, Operations &amp; Supply Chain analysis
 
 <img width="1051" alt="Screenshot 2023-05-19 at 2 11 53 PM" src="https://github.com/viradhikaa/BMW-Group-Supply-Chain-Model/assets/56044346/fc39fa88-48f5-4729-ac9d-4d8616cdc2b4">
 
+<img width="1038" alt="Screenshot 2023-05-19 at 2 13 24 PM" src="https://github.com/viradhikaa/BMW-Group-Supply-Chain-Model/assets/56044346/71097961-3758-4984-863b-307fbd54b51f">
 
+<img width="1037" alt="Screenshot 2023-05-19 at 2 13 42 PM" src="https://github.com/viradhikaa/BMW-Group-Supply-Chain-Model/assets/56044346/86c890ee-bbb6-4b3b-80b4-bec636d39322">
 
 
 
